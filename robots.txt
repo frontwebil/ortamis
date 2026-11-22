@@ -3,5 +3,4 @@ Allow: /
 Disallow: /v1-taste.html
 Disallow: /.impeccable/
 Disallow: /.taste-skill/
-# Після підключення домену додайте:
-# Sitemap: https://ДОМЕН-КЛІНІКИ/sitemap.xml
+Sitemap: https://frontwebil.github.io/ortamis/sitemap.xml

@@ -1,0 +1,13 @@
+# службові файли інструментів, не потрібні сайту
+.taste-skill/
+.impeccable/
+shots/
+serve.mjs
+v1-taste.html
+
+# набір Taste (потрібен лише першій версії); сайт використовує тільки ці файли з assets/
+assets/*
+!assets/ortamis.css
+!assets/ortamis.js
+!assets/img/
+assets/img/credits.json

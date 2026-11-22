@@ -1,4 +1,0 @@
-[
-  { "check": "phone-number", "target": "dl.hours", "reason": "A real clinic: 099 006 89 77 is its public booking number from its Instagram bio and Google listing." },
-  { "check": "phone-number", "target": "nav__actions", "reason": "A real clinic: patients book by phone, so the main action dials its public number." }
-]
