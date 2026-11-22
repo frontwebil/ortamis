@@ -1,0 +1,200 @@
+{
+ "url": "http://127.0.0.1:5300/index.html",
+ "views": {
+  "mobile": {
+   "width": 390,
+   "height": 844,
+   "navH": 69,
+   "scrollHeight": 12110,
+   "screens": 14.35,
+   "sections": [
+    {
+     "n": 1,
+     "tag": "section",
+     "id": "top",
+     "cls": "hero",
+     "top": 0,
+     "h": 1285,
+     "hScreens": 1.52,
+     "offGrid": 441,
+     "tiles": [
+      {
+       "file": "mobile-sec-01-a.jpg",
+       "scrollY": 0
+      },
+      {
+       "file": "mobile-sec-01-b.jpg",
+       "scrollY": 441
+      }
+     ]
+    },
+    {
+     "n": 2,
+     "tag": "section",
+     "id": "services",
+     "cls": "services",
+     "top": 1285,
+     "h": 1246,
+     "hScreens": 1.48,
+     "offGrid": 402,
+     "tiles": [
+      {
+       "file": "mobile-sec-02-a.jpg",
+       "scrollY": 1285
+      },
+      {
+       "file": "mobile-sec-02-b.jpg",
+       "scrollY": 1687
+      }
+     ]
+    },
+    {
+     "n": 3,
+     "tag": "section",
+     "id": "",
+     "cls": "sign",
+     "top": 2531,
+     "h": 591,
+     "hScreens": 0.7,
+     "offGrid": 591,
+     "tiles": [
+      {
+       "file": "mobile-sec-03-a.jpg",
+       "scrollY": 2531
+      }
+     ]
+    },
+    {
+     "n": 4,
+     "tag": "section",
+     "id": "implant",
+     "cls": "implant",
+     "top": 3122,
+     "h": 1722,
+     "hScreens": 2.04,
+     "offGrid": 34,
+     "tiles": [
+      {
+       "file": "mobile-sec-04-a.jpg",
+       "scrollY": 3122
+      },
+      {
+       "file": "mobile-sec-04-b.jpg",
+       "scrollY": 3966
+      },
+      {
+       "file": "mobile-sec-04-c.jpg",
+       "scrollY": 4000
+      }
+     ]
+    },
+    {
+     "n": 5,
+     "tag": "section",
+     "id": "kids",
+     "cls": "kids",
+     "top": 4844,
+     "h": 1172,
+     "hScreens": 1.39,
+     "offGrid": 328,
+     "tiles": [
+      {
+       "file": "mobile-sec-05-a.jpg",
+       "scrollY": 4844
+      },
+      {
+       "file": "mobile-sec-05-b.jpg",
+       "scrollY": 5172
+      }
+     ]
+    },
+    {
+     "n": 6,
+     "tag": "section",
+     "id": "prices",
+     "cls": "prices",
+     "top": 6016,
+     "h": 2406,
+     "hScreens": 2.85,
+     "offGrid": 718,
+     "tiles": [
+      {
+       "file": "mobile-sec-06-a.jpg",
+       "scrollY": 6016
+      },
+      {
+       "file": "mobile-sec-06-b.jpg",
+       "scrollY": 6860
+      },
+      {
+       "file": "mobile-sec-06-c.jpg",
+       "scrollY": 7578
+      }
+     ]
+    },
+    {
+     "n": 7,
+     "tag": "section",
+     "id": "team",
+     "cls": "team",
+     "top": 8422,
+     "h": 1377,
+     "hScreens": 1.63,
+     "offGrid": 533,
+     "tiles": [
+      {
+       "file": "mobile-sec-07-a.jpg",
+       "scrollY": 8422
+      },
+      {
+       "file": "mobile-sec-07-b.jpg",
+       "scrollY": 8955
+      }
+     ]
+    },
+    {
+     "n": 8,
+     "tag": "section",
+     "id": "faq",
+     "cls": "faq",
+     "top": 9799,
+     "h": 1369,
+     "hScreens": 1.62,
+     "offGrid": 525,
+     "tiles": [
+      {
+       "file": "mobile-sec-08-a.jpg",
+       "scrollY": 9799
+      },
+      {
+       "file": "mobile-sec-08-b.jpg",
+       "scrollY": 10324
+      }
+     ]
+    },
+    {
+     "n": 9,
+     "tag": "footer",
+     "id": "contact",
+     "cls": "end",
+     "top": 11168,
+     "h": 941,
+     "hScreens": 1.11,
+     "offGrid": 97,
+     "tiles": [
+      {
+       "file": "mobile-sec-09-a.jpg",
+       "scrollY": 11168
+      },
+      {
+       "file": "mobile-sec-09-b.jpg",
+       "scrollY": 11265
+      }
+     ]
+    }
+   ],
+   "consoleErrors": []
+  }
+ },
+ "at": "2026-11-22T02:58:20.144Z"
+}

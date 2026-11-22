@@ -1,0 +1,15 @@
+{
+ "url": "http://127.0.0.1:5300/.taste-skill/sheet/sheet2.html",
+ "views": {
+  "desktop": {
+   "width": 1440,
+   "height": 540,
+   "navH": 0,
+   "scrollHeight": 540,
+   "screens": 1,
+   "sections": [],
+   "consoleErrors": []
+  }
+ },
+ "at": "2026-11-22T02:13:10.169Z"
+}
